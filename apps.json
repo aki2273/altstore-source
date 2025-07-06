@@ -1,0 +1,19 @@
+{
+  "name": "My Custom AltStore Source",
+  "identifier": "com.YOURUSERNAME.altstore.ytplus",
+  "apps": [
+    {
+      "name": "YouTube Plus",
+      "bundleIdentifier": "com.YOURUSERNAME.youtubeplus",
+      "developerName": "Your Name",
+      "subtitle": "An enhanced YouTube experience",
+      "version": "1.0",
+      "downloadURL": "https://github.com/aki2273/YTLite/releases/download/App/YouTubePlus_5.2b1.ipa",
+      "iconURL": "https://www.dropbox.com/scl/fi/eppar92cyvxqu6qnuk5l0/2018_social_media_popular_app_logo_youtube-512.webp?rlkey=kat2gxu7601z2vaevbg5pttdn&dl=0", 
+      "tintColor": "#FF0000",
+      "screenshotURLs": [
+        "https://www.dropbox.com/scl/fi/eppar92cyvxqu6qnuk5l0/2018_social_media_popular_app_logo_youtube-512.webp?rlkey=kat2gxu7601z2vaevbg5pttdn&dl=0"
+      ]
+    }
+  ]
+}
