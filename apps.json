@@ -1,11 +1,11 @@
 {
   "name": "My Custom AltStore Source",
-  "identifier": "com.YOURUSERNAME.altstore.ytplus",
+  "identifier": "com.aki2273.altstore.ytplus",
   "apps": [
     {
       "name": "YouTube Plus",
-      "bundleIdentifier": "com.YOURUSERNAME.youtubeplus",
-      "developerName": "Your Name",
+      "bundleIdentifier": "com.aki2273.youtubeplus",
+      "developerName": "aki2273",
       "subtitle": "An enhanced YouTube experience",
       "version": "1.0",
       "downloadURL": "https://github.com/aki2273/YTLite/releases/download/App/YouTubePlus_5.2b1.ipa",
