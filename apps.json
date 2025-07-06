@@ -1,16 +1,27 @@
 {
-  "name": "YouTube Plus Repo",
-  "identifier": "com.aki2273.ytplusrepo",
+  "name": "My Custom AltStore Source",
+  "identifier": "com.aki2273.altstore.ytplus",
+  "subtitle": "Unofficial YouTube Plus source",
+  "tintColor": "FF0000",
+
+  "iconURL": "https://www.dropbox.com/scl/fi/eppar92cyvxqu6qnuk5l0/2018_social_media_popular_app_logo_youtube-512.webp?rlkey=kat2gxu7601z2vaevbg5pttdn&raw=1",
+
   "apps": [
     {
       "name": "YouTube Plus",
-      "bundleIdentifier": "com.google.ios.youtube",
-      "developerName": "Akash Islam",
+      "bundleIdentifier": "com.aki2273.youtubeplus",
+      "developerName": "aki2273",
       "subtitle": "An enhanced YouTube experience",
-      "version": "18.33.4",
-      "downloadURL": "https://github.com/aki2273/YTLitePlus/releases/download/v18.33.4/YTLite.ipa",
-      "iconURL": "https://www.dropbox.com/scl/fi/mkyo6izq5nr6pp79oeuu3/icon.jpg?rlkey=w8hcsxe3qu7ckd5jwzaw1mubz&raw=1",
-      "tintColor": "#FF0000"
+
+      "version": "5.2-beta-1",
+      "versionDate": "2025-07-06",
+
+      "downloadURL": "https://github.com/aki2273/YTLite/releases/download/App/YouTubePlus_5.2b1.ipa",
+
+      "iconURL": "https://www.dropbox.com/scl/fi/eppar92cyvxqu6qnuk5l0/2018_social_media_popular_app_logo_youtube-512.webp?rlkey=kat2gxu7601z2vaevbg5pttdn&raw=1",
+      "tintColor": "FF0000",
+
+      "screenshotURLs": []
     }
   ]
 }
