@@ -8,8 +8,8 @@
   "apps": [
     {
       "name": "YouPlus",
-      "bundleIdentifier": "com.aki2273.youtubeplus",
-      "developerName": "aki2273",
+      "bundleIdentifier": "com.google.ios.youtube",
+      "developerName": "Various Developers",
       "subtitle": "An enhanced YT experience",
       "version": "5.2-beta-1",
       "versionDate": "2025-07-06",
@@ -20,7 +20,19 @@
       "tintColor": "FF0000",
       "size": 122839473,
       "screenshotURLs": [
-        "https://github.com/aki2273/altstore-source/blob/main/1.png?raw=true"      ]
+        "https://github.com/aki2273/altstore-source/blob/main/1.png?raw=true"
+      ],
+      "privacy": {
+          "NSAppleMusicUsageDescription": "YTLitePlus requires access to your Apple Music library.",
+          "NSBluetoothPeripheralUsageDescription": "YTLitePlus requires Bluetooth access to connect with nearby peripherals.",
+          "NSCameraUsageDescription": "YTLitePlus requires access to the camera to capture photos and videos.",
+          "NSContactsUsageDescription": "YTLitePlus requires access to your contacts to help you share content with your friends.",
+          "NSLocalNetworkUsageDescription": "YTLitePlus requires local network access to connect and communicate with nearby devices.",
+          "NSLocationWhenInUseUsageDescription": "YTLitePlus requires access to your location while using the app to provide personalized recommendations.",
+          "NSMicrophoneUsageDescription": "YTLitePlus requires access to your microphone to record audio.",
+          "NSPhotoLibraryUsageDescription": "YTLitePlus requires access to your Photo Library to save photos and videos.",
+          "NSUserTrackingUsageDescription": "To personalize ads and provide ad measurement, YTLitePlus will link activity from this app with activity from non-Google apps and websites."
+        }
     }
   ]
 }
